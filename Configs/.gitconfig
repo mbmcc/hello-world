@@ -1,0 +1,6 @@
+
+[core]
+	excludesfile = /home/user/.gitignore_codenvy
+[user]
+	name = \"mbmcc\"
+	email = \"\"
